@@ -1,4 +1,4 @@
-# One temporary solution to solve dirty cow vulnerability
+One temporary solution to solve dirty cow vulnerability
 
 # compile:
 make x64
