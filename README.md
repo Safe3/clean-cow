@@ -1,2 +1,4 @@
-# compile:make x64
-# install:insmod cow.ko
+# compile:
+make x64
+# install:
+insmod cow.ko
